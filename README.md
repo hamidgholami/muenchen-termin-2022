@@ -32,3 +32,9 @@ python3 termin.py
 ## License
 
 GNU GPLv3 &copy; [Changkun Ou](https://changkun.de)
+
+***
+
+### TODO:
+* add new base_url
+* send notification by email
